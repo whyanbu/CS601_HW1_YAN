@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Newsletter Subscription Form</title>
+    <script src="./scripts/main.js" defer></script>
+    <link rel="stylesheet" href="./css/main.css">
+</head>
+
+<body>
+    <h2>Newsletter Subscription Form</h2>
+    <form>
+        <div>
+            <label for="input-first-name">First Name</label>
+            <input type="text" id="input-first-name">
+        </div>
+        <div>
+            <label for="input-last-name">Last Name</label>
+            <input type="text" id="input-last-name">
+        </div>
+        <div>
+            <label for="input-email">Email Address</label>
+            <input type="email" id="input-email">
+        </div>
+        <div>
+            <label for="input-package">Package</label>
+            <select name="package" id="input-package"></select>
+        </div>
+        <div>
+            <input type="checkbox" id="input-subscription">
+            <label for="input-subscription">Confirm subscription to newsletter</label>
+        </div>
+        <p id="error-messages"></p>
+        <button type="submit" id="btn-submit">Submit</button>
+    </form>
+    <div id="success-messages"></div>
+</body>
+
+</html>
