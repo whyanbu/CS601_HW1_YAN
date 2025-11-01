@@ -27,7 +27,7 @@ All application logic is in the /scripts directory.
 Start the app by opening index.html.  
 
 ### Project Structure
-
+```
 CS601_HW1_YAN/  
 │  
 ├── scripts/  
@@ -36,5 +36,5 @@ CS601_HW1_YAN/
 │   └── main.css  
 ├── index.html  
 └── README.md  
-
+```
 index.html: Entry point for the app.  
