@@ -1,17 +1,17 @@
-Newsletter Subscription Form
+# Newsletter Subscription Form
 A webpage for register a subscription of newsletter by providing basic personal information
 
-Table of Contents
+## Table of Contents
 Features
 Installation
 Usage
 Project Structure
 
-Features
+### Features
 Written with vanilla JavaScript without CSS frameworks.
 
 
-Installation
+### Installation
 Clone the repository:
 
 bash
@@ -21,12 +21,12 @@ Open index.html directly in your web browser.
 
 No build or dependencies needed.
 
-Usage
+### Usage
 All application logic is in the /scripts directory.
 
 Start the app by opening index.html.
 
-Project Structure
+### Project Structure
 
 CS601_HW1_YAN/
 │
