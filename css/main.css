@@ -6,6 +6,11 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+header {
+    font-size: x-large;
+    font-weight: bold;
+}
+
 label {
     margin-top: 0.9rem;
     display: inline-block;
@@ -23,7 +28,7 @@ input {
 select {
     margin-top: 0.9rem;
     padding: 0.1rem;
-    font-size: 1rem;
+    font-size: 0.8rem;
 }
 
 button {
@@ -32,6 +37,10 @@ button {
     font-size: medium;
 }
 
-#error-messages {
+.error-text {
     color: red;
+}
+
+.error-input {
+    border: 0.1rem red solid;
 }
