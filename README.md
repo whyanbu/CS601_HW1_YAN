@@ -5,8 +5,8 @@ A webpage for register a subscription of newsletter by providing basic personal 
 Features  
 Installation  
 Usage  
-Project Structure
-Email Address Validation
+Project Structure  
+Email Address Validation  
 
 ### Features
 Written with vanilla JavaScript without CSS frameworks.
