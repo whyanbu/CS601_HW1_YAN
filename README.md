@@ -55,3 +55,7 @@ The validation rules are listed as follows:
 - Symbol "@" must be followed by a domain name  
 - Domain name should be at least one letter of a-z or A-Z then followed by a dot "." and followed by at least one letter of a-z or A-Z  
 - Numbers not allowed in domain name  
+
+source of reference:  
+- https://regexr.com/3e48o  
+- https://regex101.com/library/SOgUIV  
